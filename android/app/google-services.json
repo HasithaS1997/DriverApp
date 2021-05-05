@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "368094463390",
+    "project_id": "driverapp-f29ef",
+    "storage_bucket": "driverapp-f29ef.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:368094463390:android:0337e3d7bb4681741b428f",
+        "android_client_info": {
+          "package_name": "com.example.DriverApp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "368094463390-e61mif06eekds4lm948fvu0aghrgvutv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-0IzMnZ5aNCt6vUw8RTZRMfilyXEGNVA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "368094463390-e61mif06eekds4lm948fvu0aghrgvutv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
